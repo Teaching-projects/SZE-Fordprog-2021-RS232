@@ -1,0 +1,22 @@
+﻿  dllmain.cpp
+  grammar.tab.c
+grammar.tab.c(301,24): warning C4273: 'malloc': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(101,15): message : see previous definition of 'malloc'
+grammar.tab.c(308,19): warning C4273: 'free': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(89,14): message : see previous definition of 'free'
+  tokens.c
+tokens.l(8,1): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(533): message : see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+tokens.l(18,20): warning C4013: 'atof' undefined; assuming extern returning int
+tokens.l(18,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+tokens.l(19,20): warning C4013: 'atoi' undefined; assuming extern returning int
+tokens.c(1478,6): warning C4013: 'exit' undefined; assuming extern returning int
+tokens.c(1541,24): warning C4013: 'malloc' undefined; assuming extern returning int
+tokens.c(1559,25): warning C4013: 'realloc' undefined; assuming extern returning int
+tokens.c(1569,6): warning C4013: 'free' undefined; assuming extern returning int
+     Creating library C:\Users\jozse\source\repos\RS232_PARSER\Release\FlexBisonWrapper.lib and object C:\Users\jozse\source\repos\RS232_PARSER\Release\FlexBisonWrapper.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FlexBisonWrapper.vcxproj -> C:\Users\jozse\source\repos\RS232_PARSER\Release\FlexBisonWrapper.dll

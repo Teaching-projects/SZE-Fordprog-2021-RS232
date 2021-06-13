@@ -1,0 +1,7 @@
+﻿  tokens.c
+tokens.c(1442,6): warning C4013: 'exit' undefined; assuming extern returning int
+tokens.c(1505,24): warning C4013: 'malloc' undefined; assuming extern returning int
+tokens.c(1523,25): warning C4013: 'realloc' undefined; assuming extern returning int
+tokens.c(1533,6): warning C4013: 'free' undefined; assuming extern returning int
+     Creating library C:\Users\jozse\source\repos\RS232_PARSER\Debug\FlexBisonWrapper.lib and object C:\Users\jozse\source\repos\RS232_PARSER\Debug\FlexBisonWrapper.exp
+  FlexBisonWrapper.vcxproj -> C:\Users\jozse\source\repos\RS232_PARSER\Debug\FlexBisonWrapper.dll

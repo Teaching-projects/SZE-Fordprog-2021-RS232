@@ -1,0 +1,7 @@
+C:\Users\jozse\source\repos\RS232_PARSER\Release\RS232_PARSER.exe.config
+C:\Users\jozse\source\repos\RS232_PARSER\Release\RS232_PARSER.exe
+C:\Users\jozse\source\repos\RS232_PARSER\Release\RS232_PARSER.pdb
+c:\Users\jozse\source\repos\RS232_PARSER\RS232_PARSER\obj\Release\RS232_PARSER.csprojAssemblyReference.cache
+c:\Users\jozse\source\repos\RS232_PARSER\RS232_PARSER\obj\Release\RS232_PARSER.csproj.CoreCompileInputs.cache
+c:\Users\jozse\source\repos\RS232_PARSER\RS232_PARSER\obj\Release\RS232_PARSER.exe
+c:\Users\jozse\source\repos\RS232_PARSER\RS232_PARSER\obj\Release\RS232_PARSER.pdb

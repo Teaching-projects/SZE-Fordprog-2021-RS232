@@ -1,0 +1,5 @@
+^C:\USERS\JOZSE\SOURCE\REPOS\RS232_PARSER\FLEXBISONWRAPPER\GRAMMAR.Y
+set PATH=C:\Users\jozse\source\repos\RS232_PARSER\tools\bin;%PATH%
+bison -d grammar.y
+^C:\USERS\JOZSE\SOURCE\REPOS\RS232_PARSER\FLEXBISONWRAPPER\TOKENS.L
+"C:\Users\jozse\source\repos\RS232_PARSER\tools\bin\flex" -otokens.c tokens.l
