@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RS232_PARSER"
   ],
-  "SelectedNode": "\\RS232_PARSER.sln",
+  "SelectedNode": "\\FlexBisonWrapper",
   "PreviewInSolutionExplorer": false
 }
